@@ -158,8 +158,8 @@ radix-1 에서 radix-2에 영향을 주는 부분도 비슷하게 구현되어 �
 
 <br>
 
-![image](https://github.com/user-attachments/assets/60972b3a-cd4d-4e47-b57c-880964f4dfe3)
-![image](https://github.com/user-attachments/assets/3a15e095-737a-4c57-b038-de1c61109258)
+![2](https://github.com/user-attachments/assets/34f1a76e-4dd3-4143-aa88-7935a5edb709)
+![1](https://github.com/user-attachments/assets/c135a843-e0f2-4aad-bdca-f2a702649212)
 
 BCD Counter의 최종 구현 결과는 위 그림과 같습니다 <br>
 
