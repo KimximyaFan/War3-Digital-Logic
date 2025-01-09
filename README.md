@@ -11,6 +11,7 @@
 ## 서론
 
 [![Video Label](http://img.youtube.com/vi/7ndkv8Re_Cw/0.jpg)](https://youtu.be/7ndkv8Re_Cw)
+
 (이미지를 클릭하시면 플레이 영상이 있는 유튜브 링크로 넘어갑니다)
 
 맵 부분부분 마다 디지털 논리와 관련된 구현이 들어가있는 간단한 퍼즐맵 입니다
